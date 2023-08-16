@@ -79,3 +79,5 @@ while True:
         break
 cap.release()
 cv2.destroyAllWindows()
+
+# https://drive.google.com/file/d/10uJEsUpQI3EmD98iwrwzbD4e19Ps-LHZ/view 
